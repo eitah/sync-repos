@@ -1,0 +1,19 @@
+{
+  "name": "sync-repos",
+  "version": "1.0.0",
+  "description": "EOF project to sync two git repos reliably",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eitah/sync-repos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eitah/sync-repos/issues"
+  },
+  "homepage": "https://github.com/eitah/sync-repos#readme"
+}
